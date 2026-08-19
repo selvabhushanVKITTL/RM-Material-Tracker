@@ -1,0 +1,6 @@
+{
+  "name": "RM Material Traceability",
+  "description": "Mobile-friendly QR-driven raw material traceability and lifecycle workflow system for manufacturing plants.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
